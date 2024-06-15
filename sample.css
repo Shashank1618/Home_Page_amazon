@@ -1,0 +1,18 @@
+.cantainer{
+    background-color: black;
+    height: 500px;
+    border: 2px solid red;
+    padding: 40px 40px 40px 40px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    padding-left: 50px;
+}
+.block{
+    border: 2px solid green;
+    height: 20%;
+    width: 10%;
+    
+    
+    justify-content: space-evenly;
+}
